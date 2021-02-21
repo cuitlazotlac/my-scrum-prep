@@ -92,7 +92,7 @@ export default class Quizz extends Component {
                 </button>
                 </>) : (
                     <div className="finalPage">
-                        <h1>The Scrum Training Quizz is now completed</h1>
+                        <h1>This Scrum Training Quizz is now completed</h1>
                         <p>Your score is: {score} of {Object.keys(questions).length}</p>
                         <p>Thank You!</p>
                     </div>
