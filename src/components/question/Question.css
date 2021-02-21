@@ -1,0 +1,10 @@
+.Content h1{
+    margin: 15px 0;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: normal;
+    color: #da0f0B;
+    text-transform: none;
+    text-shadow: none;
+    text-align: left;
+}
